@@ -8,3 +8,6 @@ How is the staging area different from the working directory and the repository?
 What is this?
 One line of adding
 two line of adding
+
+How can you use the stagging area to make sure you have one commit per logical change?
+	I use stagging area before commit to make sure the change is reasonable one.
