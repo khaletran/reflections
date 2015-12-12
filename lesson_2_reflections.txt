@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 	What is the Git commit
 
 What is this?
+One line of adding
+two line of adding
